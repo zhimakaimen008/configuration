@@ -1,2 +1,6 @@
 # configuration
-configuration for tmux/vim/vscode
+configuration for
+- tmux
+- vim
+- vscode
+
