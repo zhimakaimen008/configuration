@@ -1,0 +1,20 @@
+{
+    "files.trimTrailingWhitespace": true,
+    "extensions.autoCheckUpdates": false,
+    "extensions.autoUpdate": false,
+    "update.mode": "none",
+    "editor.minimap.enabled": false,
+    "editor.renderWhitespace": "none",
+    "workbench.iconTheme": "vscode-icons",
+    "vim.hlsearch": true,
+    "vim.history": 1000,
+    "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, UseTab: Never, IndentWidth: 4, TabWidth: 4, ColumnLimit: 0, AccessModifierOffset: -4 }",
+    "workbench.editor.enablePreview": false,
+    "C_Cpp.default.cppStandard": "c++20",
+    "security.workspace.trust.untrustedFiles": "open",
+    "bracketPairColorizer.activeScopeCSS": [
+        "borderStyle : solid",
+        "borderWidth : 1px",
+        "borderColor : {color}; opacity: 0.5"
+    ]
+}
